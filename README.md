@@ -48,5 +48,5 @@ This project is developed using the following environment
 ```
 
 ## References
-*[Star Wars API (SWAPI)](https://swapi.dev/)
-*[HTTParty](https://github.com/jnunemaker/httparty)
+* [Star Wars API (SWAPI)](https://swapi.dev/)
+* [HTTParty](https://github.com/jnunemaker/httparty)
